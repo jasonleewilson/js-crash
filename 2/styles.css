@@ -1,0 +1,13 @@
+.container-flex-box {
+    display: flex;
+    flex-direction: row-reverse;
+    flex-wrap: wrap-reverse;
+    justify-content:space-evenly;
+}
+
+.container-flex-box img {
+    width: 100%;
+    padding: 20px;
+    margin: 20px;
+    box-shadow: 0px 10px 50px rgba(0, 0, 0, 0.7);
+}
